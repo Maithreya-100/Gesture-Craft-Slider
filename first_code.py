@@ -1,3 +1,4 @@
+# need to add more functions
 import win32com.client  # Library for controlling PowerPoint
 from cvzone.HandTrackingModule import HandDetector  # Library for hand tracking
 import cv2  # OpenCV library
